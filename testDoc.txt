@@ -1,2 +1,3 @@
 root
-master 1; feture 1
+master 1; feture 1;
+feature 2;
